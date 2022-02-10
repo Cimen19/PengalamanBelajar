@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Repositori pengalaman belajar di Dicoding
 
-10 Februari 2022
+<strong>10 Februari 2022</strong>
 Belajar Kelas Git dan GitHub
   - Git init
   - Git commit
@@ -10,13 +10,11 @@ Belajar Kelas Git dan GitHub
  
  -- Progresnya 37%
 
-15 Juni 2021
+<strong>15 Juni 2021</strong>
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-
-  * Belajar tipe data koleksi, seperti list, set, dan map.
-
+<ul>
+  <li>Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.</li>
+  <li>Belajar control flow dalam Java, seperti perulangan dan percabangan.</li>
+  <li>Belajar tipe data koleksi, seperti list, set, dan map.</li>
+</ul>
